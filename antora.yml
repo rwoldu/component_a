@@ -1,5 +1,6 @@
 name: component-a
 title: Component A
-version: 1.5.6
+version: ALL
 start_page: ROOT:component_a.adoc
-
+version: XSD
+start_page: ROOT:component_b.adoc
