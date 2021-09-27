@@ -1,5 +1,5 @@
 name: component-a
 title: Component A
 version: ALL
-start_page: ROOT:component_a.adoc
+start_page: ROOT:component_a:component_a.adoc
 display_version: ALL DOCS
