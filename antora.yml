@@ -2,5 +2,4 @@ name: component-a
 title: Component A
 version: ALL
 start_page: ROOT:component_a.adoc
-version: XSD
-start_page: ROOT:component_b.adoc
+display_version: ALL DOCS
